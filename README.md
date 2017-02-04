@@ -8,9 +8,12 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 
 ### Categories
 
+* [Rails](#rails)
 * [Ruby](#ruby)
 
 ---
+### Rails
+- [Populating The Database](rails/populating-the-database.md)
 
 ### Ruby
 
