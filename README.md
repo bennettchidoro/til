@@ -14,6 +14,8 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ---
 ### Rails
 - [Populating The Database](rails/populating-the-database.md)
+- [Rails Console Sandbox Mode](rails/rails-console-sandbox-mode.md)
+
 
 ### Ruby
 
