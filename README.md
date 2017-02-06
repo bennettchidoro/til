@@ -20,3 +20,4 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ### Ruby
 
 - [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
+- [Accessors](ruby/accessors.md)
