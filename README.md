@@ -14,14 +14,15 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ---
 
 ### Git
+- [Avoiding Merge Commits From Git Pull](git/avoiding-merge-commits-from-git-pull.md)
 - [Using Git Move](git/git-move.md)
 
 ### Rails
+- [Error Messages In The Rails Console](rails/error-messages-in-the-rails-console.md)
 - [Populating The Database](rails/populating-the-database.md)
 - [Rails Console Sandbox Mode](rails/rails-console-sandbox-mode.md)
-- [Error Messages In The Rails Console](rails/error-messages-in-the-rails-console.md)
 
 ### Ruby
 
-- [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
 - [Accessors](ruby/accessors.md)
+- [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
