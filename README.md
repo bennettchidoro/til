@@ -7,11 +7,15 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ---
 
 ### Categories
+* [CSS](#css)
 * [Git](#git)
 * [Rails](#rails)
 * [Ruby](#ruby)
 
 ---
+### CSS
+- [Passing Arguments With Mixins](css/passing-arguments-with-mixins.md)
+- [SCSS Mixins](css/scss-mixins.md)
 
 ### Git
 - [Avoiding Merge Commits From Git Pull](git/avoiding-merge-commits-from-git-pull.md)
