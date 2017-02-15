@@ -28,6 +28,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Populating The Database](rails/populating-the-database.md)
 - [Rails Console Sandbox Mode](rails/rails-console-sandbox-mode.md)
 - [Strong Parameters](rails/strong-parameters.md)
+- [Using Fixtures](rails/using-fixtures.md)
 
 ### Ruby
 
