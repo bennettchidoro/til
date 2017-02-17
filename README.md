@@ -34,3 +34,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 
 - [Accessors](ruby/accessors.md)
 - [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
+
+### Unix
+
+- [Print The Current Directory](unix/print-the-current-directory.md)
