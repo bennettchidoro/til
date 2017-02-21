@@ -26,6 +26,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 
 ### Rails
 - [Add A Column To An Existing Table](rails/add-a-column-to-an-existing-table.md)
+- [Check The Status Of A Migration](rails/check-the-status-of-a-migration.md)
 - [Difference Between Path And Url Helpers](rails/difference-between-path-and-url-helpers.md)
 - [Error Messages In The Rails Console](rails/error-messages-in-the-rails-console.md)
 - [Populating The Database](rails/populating-the-database.md)
