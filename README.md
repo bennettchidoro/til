@@ -37,7 +37,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ### Ruby
 
 - [Accessors](ruby/accessors.md)
-- [Check The Installed Version](rails/check-the-installed-version.md)
+- [Check The Installed Version](ruby/check-the-installed-version.md)
 - [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
 - [Using The Ternary Operator](ruby/using-the-ternary-operator.md)
 
