@@ -39,6 +39,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Accessors](ruby/accessors.md)
 - [Check The Installed Version](ruby/check-the-installed-version.md)
 - [ Does This Method Respond To An Object](ruby/does-this-method-respond-to-an-object.md)
+- [Duck Typing](ruby/duck-typing.md)
 - [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
 - [Using The Ternary Operator](ruby/using-the-ternary-operator.md)
 
