@@ -47,3 +47,4 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 
 - [Change To Previous Directory](unix/change-to-previous-directory.md)
 - [Print The Current Directory](unix/print-the-current-directory.md)
+- [Move To The Beginning Of A Line](unix/move-to-the-beginning-of-a-line.md)
