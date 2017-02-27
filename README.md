@@ -21,6 +21,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 
 ### Git
 - [Avoiding Merge Commits From Git Pull](git/avoiding-merge-commits-from-git-pull.md)
+[Changing The Date Of Your Most Recent Commit](git/changing-the-date-of your-most-recent-commit.md)
 - [Renaming A Local Branch](git/renaming-a-local-branch.md)
 - [Using Git Move](git/git-move.md)
 
