@@ -4,5 +4,5 @@ For whatever reason, you might want to change the timestamp of your most recent 
 
 `git commit --amend --date="2017-02-28 10:08:07"`
 
-Then, we can specify the actual date we want to our commit to have. The format for the date and time is `YYYY-MM-DD`
+Then, we can specify the actual date we want our commit to have. The format for the date and time is `YYYY-MM-DD`
 `hh-mm-ss`.
