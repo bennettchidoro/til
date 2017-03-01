@@ -43,6 +43,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Duck Typing](ruby/duck-typing.md)
 - [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
 - [Using The Ternary Operator](ruby/using-the-ternary-operator.md)
+- [Unit Test](ruby/unit-tests.md)
 
 ### Unix
 
