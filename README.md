@@ -43,7 +43,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Duck Typing](ruby/duck-typing.md)
 - [Integration Tests](ruby/integration-tests.md)
 - [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
-- [Passing A Block To Array#new](ruby/passing-a-block-to-Array#new.md)
+- [Passing A Block To Array#new](ruby/passing-a-block-to-Array%23new.md)
 - [Using The Ternary Operator](ruby/using-the-ternary-operator.md)
 - [Unit Tests](ruby/unit-tests.md)
 
