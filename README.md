@@ -9,6 +9,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ### Categories
 * [CSS](#css)
 * [Git](#git)
+* [JavaScript](#javascript)
 * [Rails](#rails)
 * [Ruby](#ruby)
 
@@ -24,6 +25,9 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Changing The Date Of Your Most Recent Commit](git/changing-the-date-of-your-most-recent-commit.md)
 - [Renaming A Local Branch](git/renaming-a-local-branch.md)
 - [Using Git Move](git/git-move.md)
+
+### JavaScript
+- [Multi-line Comments](multi-line-comments.md)
 
 ### Rails
 - [Add A Column To An Existing Table](rails/add-a-column-to-an-existing-table.md)
