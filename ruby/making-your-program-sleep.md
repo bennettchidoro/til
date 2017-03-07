@@ -3,7 +3,7 @@
 Ruby's `Kernel` module provides us with the `#sleep` method.
 It takes in a duration, which can be any positive integer and it suspends the current thread for the duration you pass in.
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Thread_(computing):
+According to Wikipedia
 
 > In computer science, a thread of execution is the smallest sequence of programmed instructions that can be managed independently by an operating system scheduler. A thread is a light-weight process.
 
