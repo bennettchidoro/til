@@ -16,6 +16,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ---
 ### CSS
 - [Flexbox](css/flexbox.md)
+- [Increasing The Padding Of An Element](css/increasing-the-padding-of-an-element.md)
 - [Media Queries](css/media-queries.md)
 - [Passing Arguments With Mixins](css/passing-arguments-with-mixins.md)
 - [SCSS Mixins](css/scss-mixins.md)
