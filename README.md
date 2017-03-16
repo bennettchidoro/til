@@ -49,6 +49,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Counting Up And Down](ruby/counting-up-and-down.md)
 - [Does This Method Respond To An Object](ruby/does-this-method-respond-to-an-object.md)
 - [Duck Typing](ruby/duck-typing.md)
+- [Get A List Of A Method's Parameters](ruby/get-a-list-of-a-method's-parameters.md)
 - [Integration Tests](ruby/integration-tests.md)
 - [Making Your Program Sleep](ruby/making-your-program-sleep.md)
 - [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
