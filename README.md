@@ -31,6 +31,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Declaring A Function](javascript/declaring-a-function.md)
 - [Local Scope In Functions](javascript/local-scope-in-functions.md)
 - [Multi-line Comments](javascript/multi-line-comments.md)
+- [Using The Switch Statement For Many Options](javascript/using-the-switch-statement-for-many-options.md)
 
 ### Rails
 - [Add A Column To An Existing Table](rails/add-a-column-to-an-existing-table.md)
