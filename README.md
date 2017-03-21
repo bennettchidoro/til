@@ -29,6 +29,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 
 ### JavaScript
 - [Declaring A Function](javascript/declaring-a-function.md)
+- [Local Scope In Functions](javascript/local-scope-in-functions.md)
 - [Multi-line Comments](javascript/multi-line-comments.md)
 
 ### Rails
