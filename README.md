@@ -30,6 +30,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ### JavaScript
 - [Declaring A Function](javascript/declaring-a-function.md)
 - [Getting All The Arguments](javascript/getting-all-the-arguments.md)
+- [Let's Write A Recursive Function](javascript/let's-write-a-recursive-function.md)
 - [Local Scope In Functions](javascript/local-scope-in-functions.md)
 - [Multi-line Comments](javascript/multi-line-comments.md)
 - [Using The Switch Statement For Many Options](javascript/using-the-switch-statement-for-many-options.md)
