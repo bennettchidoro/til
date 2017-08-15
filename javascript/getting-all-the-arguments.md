@@ -1,3 +1,5 @@
+# Getting All The Arguments
+
 Whenever we call a function, a special variable named `arguments` is added to the environment. This variable gives us all the arguments that are passed to our function.
 
 ```javascript
