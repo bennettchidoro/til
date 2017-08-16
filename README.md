@@ -62,7 +62,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Unit Tests](ruby/unit-tests.md)
 
 ### Unix
-
+- [Breaking Down A Command](unix/breaking-down-a-command.md)
 - [Change To Previous Directory](unix/change-to-previous-directory.md)
 - [Download An Entire Website Using Wget](unix/download-an-entire-website-using-wget.md)
 - [Print The Current Directory](unix/print-the-current-directory.md)
