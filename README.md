@@ -28,6 +28,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Using Git Move](git/git-move.md)
 
 ### JavaScript
+- [Adding A New Method With The Prototype Property](javascript/adding-a-new-method-with-the-prototype-property.md)
 - [Declaring A Function](javascript/declaring-a-function.md)
 - [Getting All The Arguments](javascript/getting-all-the-arguments.md)
 - [Let's Write A Recursive Function](javascript/let's-write-a-recursive-function.md)
