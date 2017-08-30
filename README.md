@@ -12,7 +12,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 * [JavaScript](#javascript)
 * [Rails](#rails)
 * [Ruby](#ruby)
-
+* [Unix](#unix)
 ---
 ### CSS
 - [Flexbox](css/flexbox.md)
