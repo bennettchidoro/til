@@ -35,6 +35,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Local Scope In Functions](javascript/local-scope-in-functions.md)
 - [Multi-line Comments](javascript/multi-line-comments.md)
 - [Using The Switch Statement For Many Options](javascript/using-the-switch-statement-for-many-options.md)
+- [Using Map Instead of A For Loop](javascript/using-map-instead-of-a-for-loop.md)
 - [The Global Scope](javascript/the-global-scope.md)
 
 ### Rails
