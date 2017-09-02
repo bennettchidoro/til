@@ -68,6 +68,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Breaking Down A Command](unix/breaking-down-a-command.md)
 - [Change To Previous Directory](unix/change-to-previous-directory.md)
 - [Download An Entire Website Using Wget](unix/download-an-entire-website-using-wget.md)
+- [Getting Comfortable With The Filesystem](unix/getting-comfortable-with-the-filesystem.md)
 - [Print The Current Directory](unix/print-the-current-directory.md)
 - [Moving All Files From One Directory To Another](unix/moving-all-files-from-one-directory-to-another.md)
 - [Move To The Beginning Of A Line](unix/move-to-the-beginning-of-a-line.md)
