@@ -9,6 +9,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ### Categories
 * [CSS](#css)
 * [Git](#git)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Rails](#rails)
 * [Ruby](#ruby)
