@@ -30,6 +30,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Using Git Move](git/git-move.md)
 
 ### Java
+- [Anatomy Of A Class](java/anatomy-of-a-class.md)
 - [Designing A Class](java/designing-a-class.md)
 
 ### JavaScript
