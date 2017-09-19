@@ -31,6 +31,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 
 ### Java
 - [Anatomy Of A Class](java/anatomy-of-a-class.md)
+- [Casting An Object Into A Particular Type](java/casting-an-object-into-a-particular-type.md)
 - [Designing A Class](java/designing-a-class.md)
 
 ### JavaScript
