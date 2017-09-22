@@ -5,7 +5,7 @@ Java provides us with plenty of ways to iterate over collections of data. Using 
 Standard `for loop`:
 
 ```java
-for (int i = 0; i < myArray.length ; i++) {
+for (int i = 0; i < myArray.length; i++) {
   System.out.println(myArray[i]);
 }
 ```
