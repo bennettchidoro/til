@@ -34,6 +34,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Auto Generating Getters and Setters in Eclipse](java/auto-generating-getters-and-setters-in-eclipse.md)
 - [Casting An Object Into A Particular Type](java/casting-an-object-into-a-particular-type.md)
 - [Designing A Class](java/designing-a-class.md)
+= [Java's Dynamic Array](java/javas-dynamic-array.md)
 - [Using The Enhanced For Loop](java/using-the-enhanced-for-loop.md)
 
 ### JavaScript
