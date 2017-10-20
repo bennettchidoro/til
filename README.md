@@ -36,6 +36,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Designing A Class](java/designing-a-class.md)
 - [Java's Dynamic Array](java/javas-dynamic-array.md)
 - [Java's Super Keyword](java/javas-super-keyword.md)
+- [Overriding Methods](java/overriding-methods.md)
 - [To Extend, Or Not To Extend](java/to-extend-or-not-to-extend.md)
 - [Using The Enhanced For Loop](java/using-the-enhanced-for-loop.md)
 
