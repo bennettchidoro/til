@@ -49,9 +49,10 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Let's Write A Recursive Function](javascript/let's-write-a-recursive-function.md)
 - [Local Scope In Functions](javascript/local-scope-in-functions.md)
 - [Multi-line Comments](javascript/multi-line-comments.md)
-- [Using The Switch Statement For Many Options](javascript/using-the-switch-statement-for-many-options.md)
+- [Using Destructuring To Get The Rest Of An Array](javascript/using-destructuring-to-get-the-rest-of-an-array.md)
 - [Using Function.prototype.apply()](javascript/using-function-prototype-apply.md)
 - [Using Map Instead of A For Loop](javascript/using-map-instead-of-a-for-loop.md)
+- [Using The Switch Statement For Many Options](javascript/using-the-switch-statement-for-many-options.md)
 - [The Global Scope](javascript/the-global-scope.md)
 
 ### Rails
