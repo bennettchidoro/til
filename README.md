@@ -7,6 +7,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ---
 
 ### Categories
+* [Chrome](#chrome)
 * [CSS](#css)
 * [Git](#git)
 * [Java](#java)
@@ -15,6 +16,10 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 * [Ruby](#ruby)
 * [Unix](#unix)
 ---
+### Chrome
+- [Crossed Out Style Properties in Chrome DevTools](chrome/crossed-out-style-properties-in-chrome-devtools.md)
+
+
 ### CSS
 - [Flexbox](css/flexbox.md)
 - [Increasing The Padding Of An Element](css/increasing-the-padding-of-an-element.md)
