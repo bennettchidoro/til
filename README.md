@@ -84,6 +84,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Making Your Program Sleep](ruby/making-your-program-sleep.md)
 - [Merging Hashes With The Double Splat Operator](ruby/merging-hashes-with-the-double-splat-operator.md)
 - [Passing A Block To Array#new](ruby/passing-a-block-to-Array%23new.md)
+- [Set Ruby Version With RVM](ruby/set-ruby-version-with-rvm.md)
 - [Using The Ternary Operator](ruby/using-the-ternary-operator.md)
 - [Unit Tests](ruby/unit-tests.md)
 
