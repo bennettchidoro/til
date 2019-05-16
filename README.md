@@ -91,6 +91,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 ### Unix
 - [Breaking Down A Command](unix/breaking-down-a-command.md)
 - [Change To Previous Directory](unix/change-to-previous-directory.md)
+- [Check How Long Your System Has Been Running](unix/check-how-long-your-system-has-been-running.md)
 - [Download An Entire Website Using Wget](unix/download-an-entire-website-using-wget.md)
 - [Getting Comfortable With The Filesystem](unix/getting-comfortable-with-the-filesystem.md)
 - [Print The Current Directory](unix/print-the-current-directory.md)
