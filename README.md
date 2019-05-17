@@ -76,6 +76,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Accessors](ruby/accessors.md)
 - [Check The Installed Version](ruby/check-the-installed-version.md)
 - [Counting Up And Down](ruby/counting-up-and-down.md)
+- [Difference Between Explicit And Explicit Receiver](ruby/difference-between-explicit-and-implicit-receiver.md)
 - [Does This Method Respond To An Object](ruby/does-this-method-respond-to-an-object.md)
 - [Duck Typing](ruby/duck-typing.md)
 - [Get A List Of A Method's Parameters](ruby/get-a-list-of-a-method's-parameters.md)
