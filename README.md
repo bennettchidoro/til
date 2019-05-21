@@ -28,6 +28,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [SCSS Mixins](css/scss-mixins.md)
 
 ### Git
+- [Amend Author Of Your Most Recent Commit](git/amend-author-of-your-most-recent-commit.md)
 - [Avoiding Merge Commits From Git Pull](git/avoiding-merge-commits-from-git-pull.md)
 - [Changing The Date Of Your Most Recent Commit](git/changing-the-date-of-your-most-recent-commit.md)
 - [Checking Out A Remote Branch](git/checking-out-a-remote-branch.md)
