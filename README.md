@@ -74,7 +74,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Running Pretend Generations](rails/running-pretend-generations.md)
 - [Strong Parameters](rails/strong-parameters.md)
 - [Using Fixtures](rails/using-fixtures.md)
-- [Using Partials To Remove Duplication And Cleanup Views](rails/using-partials-to-remove-duplication-and-cleanup-view.md)
+- [Using Partials To Remove Duplication And Cleanup Views](rails/using-partials-to-remove-duplication-and-cleanup-views.md)
 
 ### Ruby
 
