@@ -70,6 +70,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Error Messages In The Rails Console](rails/error-messages-in-the-rails-console.md)
 - [Listing All Of The Database Specific Tasks](rails/listing-all-of-the-database-specific-tasks.md)
 - [Populating The Database](rails/populating-the-database.md)
+- [Printing The Generated SQL](rails/printing-the-generated-sql.md)
 - [Rails Console Sandbox Mode](rails/rails-console-sandbox-mode.md)
 - [Resetting The Database](rails/resetting-the-database.md)
 - [Running Pretend Generations](rails/running-pretend-generations.md)
