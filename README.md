@@ -69,6 +69,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Difference Between Path And Url Helpers](rails/difference-between-path-and-url-helpers.md)
 - [Embedded Ruby](rails/embedded-ruby.md)
 - [Error Messages In The Rails Console](rails/error-messages-in-the-rails-console.md)
+- [Flash Messages](rails/flash-messages.md)
 - [Listing All Of The Database Specific Tasks](rails/listing-all-of-the-database-specific-tasks.md)
 - [Populating The Database](rails/populating-the-database.md)
 - [Printing The Generated SQL](rails/printing-the-generated-sql.md)
