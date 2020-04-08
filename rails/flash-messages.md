@@ -11,7 +11,7 @@ Example messages:
 
 
 To set a flash message, we can use a special flash object that is automatically provided for us in all of our views and controllers.
-It's a hash like structure because it has keys and values. The key is the type of the flash. (Common ones are `notice` and `alert`) and the value is the message we want to display.
+It's a hash like structure because it has keys and values. The key is the type of the flash (common ones are `notice` and `alert`) and the value is the message we want to display.
 
 
 
