@@ -17,4 +17,15 @@ invoke  active_record
 ```
 Running `$ rails g destroy resource revieew name:string stars:integer comment:text movie:references` will delete all of the files that were generated.
 
+```
+invoke  active_record
+      remove    db/migrate/20200409035148_create_reveiws.rb
+      remove    app/models/reveiw.rb
+      invoke    test_unit
+      remove      test/models/reveiw_test.rb
+      remove      test/fixtures/reveiws.yml
+      invoke  controller
+      remove    app/controllers/reveiws_controller.rb
+```
+
 Be sure to pass in the exact same options you used when running the generator.
