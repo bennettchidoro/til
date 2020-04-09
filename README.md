@@ -65,6 +65,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Add A Column To An Existing Table](rails/add-a-column-to-an-existing-table.md)
 - [Check The Status Of A Migration](rails/check-the-status-of-a-migration.md)
 - [Code Statistics](rails/code-statistics.md)
+- [Delete All The Files That Were Generated](rails/delete-all-the-files-that-were-generated.md)
 - [Delete Vs Destroy](rails/delete-vs-destroy.md)
 - [Difference Between Path And Url Helpers](rails/difference-between-path-and-url-helpers.md)
 - [Embedded Ruby](rails/embedded-ruby.md)
