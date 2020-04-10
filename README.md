@@ -76,6 +76,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Printing The Generated SQL](rails/printing-the-generated-sql.md)
 - [Rails Console Sandbox Mode](rails/rails-console-sandbox-mode.md)
 - [Resetting The Database](rails/resetting-the-database.md)
+- [Resource Generator](rails/resource-generator.md)
 - [Running Pretend Generations](rails/running-pretend-generations.md)
 - [Strong Parameters](rails/strong-parameters.md)
 - [Using Fixtures](rails/using-fixtures.md)
