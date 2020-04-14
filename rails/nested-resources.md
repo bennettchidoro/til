@@ -15,6 +15,7 @@ end
 Nested resources let us mimic this relationship in our `routes.rb` file.
 
 ```ruby
+ # config/routes.rb
 resources :movies do
   resources :reviews
 end
