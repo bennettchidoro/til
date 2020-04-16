@@ -114,5 +114,6 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Moving All Files From One Directory To Another](unix/moving-all-files-from-one-directory-to-another.md)
 - [Move To The Beginning Of A Line](unix/move-to-the-beginning-of-a-line.md)
 - [Show A List Of Logged On Users](unix/show-a-list-of-logged-on-users.md)
+- [Show The Status Of Currently Running Processes](unix/show-the-status-of-currently-running-processes.md)
 - [Word Count](unix/word-count.md)
 - [Which Users Are Currently Logged In](unix/which-users-are-currently-logged-in.md)
