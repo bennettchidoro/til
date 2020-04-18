@@ -35,6 +35,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Renaming A Local Branch](git/renaming-a-local-branch.md)
 - [Show Your Git Config With Git List](git/show-your-git-config-with-git-list.md)
 - [Using Git Move](git/git-move.md)
+- [Undo Your Most Recent Local Commits](git/undo-your-most-recent-local-commits.md)
 
 ### Java
 - [Anatomy Of A Class](java/anatomy-of-a-class.md)
