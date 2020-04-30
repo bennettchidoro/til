@@ -81,6 +81,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Resetting The Database](rails/resetting-the-database.md)
 - [Resource Generator](rails/resource-generator.md)
 - [Running Pretend Generations](rails/running-pretend-generations.md)
+- [Running Specific Migrations](rails/running-specific-migrations.md)
 - [Specifying When A Validation Should Happen](rails/specifying-when-a-validation-should-happen.md)
 - [Strong Parameters](rails/strong-parameters.md)
 - [Using Fixtures](rails/using-fixtures.md)
