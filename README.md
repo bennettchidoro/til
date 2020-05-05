@@ -73,6 +73,7 @@ A fun and simple way to track small things I learn on a day to day basis. I got 
 - [Embedded Ruby](rails/embedded-ruby.md)
 - [Error Messages In The Rails Console](rails/error-messages-in-the-rails-console.md)
 - [Flash Messages](rails/flash-messages.md)
+- [helper_method](rails/helper_method.md)
 - [Listing All Of The Database Specific Tasks](rails/listing-all-of-the-database-specific-tasks.md)
 - [Nested Resources](rails/nested-resources.md)
 - [Populating The Database](rails/populating-the-database.md)
