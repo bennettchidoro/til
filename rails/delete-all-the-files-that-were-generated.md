@@ -15,7 +15,7 @@ invoke  active_record
       create    app/controllers/revieews_controller.rb
 ...
 ```
-Running `$ rails g destroy resource revieew name:string stars:integer comment:text movie:references` will delete all of the files that were generated.
+Running `$ rails destroy resource revieew name:string stars:integer comment:text movie:references` will delete all of the files that were generated.
 
 ```
 invoke  active_record
